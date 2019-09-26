@@ -1,0 +1,30 @@
+@font-face {
+  font-family: 'AvenirNext-Bold';
+  src: url('../../assets/font/AvenirNext-Bold.woff');
+}
+@font-face {
+  font-family: 'AvenirNext-DemiBold';
+  src: url('../../assets/font/AvenirNext-DemiBold.woff');
+}
+@font-face {
+  font-family: 'AvenirNext-Medium';
+  src: url('../../assets/font/AvenirNext-Medium.woff');
+}
+@font-face {
+  font-family: 'AvenirNext-Regular';
+  src: url('../../assets/font/AvenirNext-Regular.woff');
+}
+
+
+.ffBold{
+  font-family: "AvenirNext-Bold","PingFang SC","Microsoft YaHei","Simsun",Helvetica,Arial,Verdana,sans-serif;
+}
+.ffDemi{
+  font-family: "AvenirNext-DemiBold","PingFang SC","Microsoft YaHei","Simsun",Helvetica,Arial,Verdana,sans-serif;
+}
+.ffMedium{
+  font-family: "AvenirNext-Medium","PingFang SC","Microsoft YaHei","Simsun",Helvetica,Arial,Verdana,sans-serif;
+}
+.ffRegular{
+  font-family: "AvenirNext-Regular","PingFang SC","Microsoft YaHei","Simsun",Helvetica,Arial,Verdana,sans-serif;
+}
